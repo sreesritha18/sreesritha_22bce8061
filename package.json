@@ -1,21 +1,15 @@
 {
   "name": "bajaj-finserv_22bce8061",
   "version": "1.0.0",
-  "description": "",
+  "description": "REST API for a BFHL project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sreesritha18/sreesritha_22bce8061.git"
+  "dependencies": {
+    "express": "^4.17.1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/sreesritha18/sreesritha_22bce8061/issues"
-  },
-  "homepage": "https://github.com/sreesritha18/sreesritha_22bce8061#readme"
+  "license": "ISC"
 }
